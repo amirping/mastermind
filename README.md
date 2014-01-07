@@ -1,6 +1,6 @@
 Mastermind
 ==========
 
-A Mastermind game made entirely in Java.
+A server-client Mastermind game made entirely in Java.
 
-*Authors: Ian Ozturk, Darrel-Day Guerrero, Anton Shevchencko.*
+*Authors: Ian Ozturk, Darrel-Day Guerrero, Anton Shevchenko.*
